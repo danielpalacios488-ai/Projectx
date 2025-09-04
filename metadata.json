@@ -1,0 +1,5 @@
+{
+  "name": "Customer Feedback Analysis Dashboard",
+  "description": "A web application to analyze customer feedback from a Google Sheet. It calculates NPS and CSAT scores, performs sentiment analysis, and generates improvement suggestions using AI.",
+  "requestFramePermissions": []
+}
